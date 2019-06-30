@@ -11,3 +11,7 @@ build, design and train neural network to recogize some of waste items into spec
 
 ### Confusion Matrix 
 ![image](https://user-images.githubusercontent.com/13302708/60401112-0e05f700-9b7d-11e9-91fb-8d33a3ee2744.png)
+
+### Accuracy Comparison 
+![image](https://user-images.githubusercontent.com/13302708/60401267-def08500-9b7e-11e9-84eb-c4e6f76e8b6e.png)
+
