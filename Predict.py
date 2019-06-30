@@ -1,3 +1,5 @@
+#  Developed by Morhaf Kourbaj.
+
 from keras.models import model_from_json
 from keras.models import load_model
 from pathlib import Path

@@ -1,3 +1,5 @@
+#  Developed by Morhaf Kourbaj.
+
 import keras
 from keras.datasets import cifar100
 from keras.models import model_from_json

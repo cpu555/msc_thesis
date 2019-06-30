@@ -1,8 +1,9 @@
+#  Developed by Morhaf Kourbaj.
+
 import keras
 from keras.datasets import cifar100
 from keras.models import Sequential
 from keras.layers import Dense, Dropout, Flatten, Conv2D, MaxPooling2D
-from pathlib import Path
 import matplotlib.pyplot as plt
 import numpy as np
 from keras_sequential_ascii import sequential_model_to_ascii_printout

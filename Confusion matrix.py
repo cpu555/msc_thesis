@@ -1,3 +1,5 @@
+#  Developed by Morhaf Kourbaj.
+
 from keras.datasets import cifar100
 from keras.models import model_from_json
 from sklearn.externals._arff import xrange
